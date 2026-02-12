@@ -1,8 +1,9 @@
 .hero-section {
     background: url(../../images/hero.jpg) no-repeat center;
     background-size: cover;
-    position: relative;
     height: 500px;
+    position: relative;
+    border-radius: 20px;
 }
 
 .hero-overlay {
@@ -16,7 +17,7 @@
 
 .hero-content {
     color: #ffffff;
-    max-width: 366px;
+    max-width: 360px;
     text-align: center;
 }
 
@@ -37,20 +38,7 @@
     gap: 16px;
 }
 
-.btn {
-    font-size: 1.25rem;
-    width: 161px;
-    height: 48px;
-    border-radius: 25px;
-    font-weight: 400;
-    padding: 10px 20px;
-    transition: background-color 0.3s, border 0.3s;
-}
-.btn-outline{
-    background-color: transparent;
-    border: 2px solid #ffffff;
-    line-height: 23px;
-}
+
 .btn-filled {
     background-color: #ffffff;
     color: #6329a2;

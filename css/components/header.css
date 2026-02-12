@@ -2,9 +2,9 @@
     background-color: #ffffff;
     position: fixed;
     left: 50%;
-    top: 20px;
+    top: 60px;
     transform: translateX(-50%);
-    width: calc(100% - 40px);
+    width: calc(100% - 210px);
     border-radius: 15px;
     display: flex;
     z-index: 999;
