@@ -3,7 +3,7 @@ body{
     color: #333333;
 }
 main{
-    padding: 2.5rem 0 0;
+    padding: 2.5rem 0 2.5rem;
     max-width: 1360px;
     margin: 0 auto;
 }
@@ -21,4 +21,18 @@ main{
     background-color: transparent;
     border: 2px solid #ffffff;
     line-height: 23px;
+}
+.btn-filled {
+    background-color: #ffffff;
+    color: #6329a2;
+}
+.btn:hover{
+    background-color: #6329a2;
+    color: #ffffff;
+    border: #6329a2;
+}
+.footer-copy{
+    font-size: 1.25rem;
+    text-align: center;
+    padding: 20px 0;
 }

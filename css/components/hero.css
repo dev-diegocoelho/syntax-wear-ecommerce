@@ -39,12 +39,3 @@
 }
 
 
-.btn-filled {
-    background-color: #ffffff;
-    color: #6329a2;
-}
-.btn:hover{
-    background-color: #6329a2;
-    color: #ffffff;
-    border: #6329a2;
-}
